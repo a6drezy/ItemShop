@@ -1,12 +1,11 @@
-CID_424_Athena_Commando_M_Vigilante, 1500
-CID_423_Athena_Commando_F_Painter, 1500
-EID_BasketballV2, 500
+CID_753_Athena_Commando_F_Hostile, 1500
+Pack_HoodieBandit_Bundle, 2000
 na
 na
 na
-CID_586_Athena_Commando_F_PunkDevil, 1200
-Pickaxe_ID_138_Gnome, 800
+EID_ElectroShuffle, 800
+Pickaxe_ID_294_CandyCane, 1000
 CID_170_Athena_Commando_F_Luchador, 1200
-Glider_ID_110_TeriyakiFish, 800
-Wrap_182_NeonAnimal, 500
-EID_TaiChi, 500
+CID_598_Athena_Commando_M_Mastermind, 1500
+Pickaxe_ID_376_FNCS, 1500
+EID_ElectroSwing, 500
